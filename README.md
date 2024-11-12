@@ -78,7 +78,7 @@ void yyerror(const char *s)
 
 ```
 # OUTPUT
-![image](https://github.com/user-attachments/assets/bdd1d86e-0163-4ca8-bbdd-a4f41bc8d656)
+![image](https://github.com/user-attachments/assets/0a8d567e-454a-440a-a235-0eaedeb63d4c)
 
 
 # RESULT
